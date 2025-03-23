@@ -1,1 +1,1 @@
-My Regolith config file.
+My Regolith 2 config file.
