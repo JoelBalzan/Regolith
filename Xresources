@@ -1,0 +1,66 @@
+### GTK THEME
+gnome.gtk.theme: Dracula
+gtk.theme_name:	Dracula
+
+### WINDOW GAPS
+i3-wm.gaps.inner.size: 15
+
+### BORDER SIZE
+i3-wm.window.border.size: 1
+
+### FONTS
+gnome.terminal.font:	JetBrains Mono Regular 12
+gtk.document_font_name:	Sans Regular 12
+gtk.font_name:	Ubuntu Light 12
+gtk.monospace_font_name:	JetBrains Mono Regular 12
+i3-wm.bar.font:	Hack Nerd Font Regular 12
+i3xrocks.value.font:	Hack Nerd Font Regular 12
+
+### BACKGROUND
+regolith.wallpaper.file: /home/joel/Pictures/Wallpapers/space.png
+
+### ICON THEME
+gtk.icon_theme_name:	Papirus
+
+### BORDER COLOUR
+i3-wm.client.focused.color.border: #A643F1
+i3-wm.client.focused.color.background: #292929
+i3-wm.client.focused.color.text: #ffffff
+i3-wm.client.focused.color.indicator: #deb9fa
+i3-wm.client.focused.color.child_border: #A643F1
+
+### BAR
+i3-wm.bar.position:	bottom
+
+i3-wm.bar.background.color:	#292929
+i3-wm.bar.workspace.active.background.color:	#5A5A5A
+i3-wm.bar.workspace.active.border.color:  #5A5A5A
+i3-wm.bar.workspace.focused.border.color:	#A643F1
+
+i3-wm.workspace.01.name:	1:1
+i3-wm.workspace.02.name:	2:2
+i3-wm.workspace.03.name:	3:3
+i3-wm.workspace.04.name:	4:4
+i3-wm.workspace.05.name:	5:5
+i3-wm.workspace.06.name:	6:6
+i3-wm.workspace.07.name:	7:7
+i3-wm.workspace.08.name:	8:8
+i3-wm.workspace.09.name:	9:9
+i3-wm.workspace.10.name:	10:10
+i3-wm.workspace.11.name:	11:11
+i3-wm.workspace.12.name:	12:12
+i3-wm.workspace.13.name:	13:13
+i3-wm.workspace.14.name:	14:14
+i3-wm.workspace.15.name:	15:15
+i3-wm.workspace.16.name:	16:16
+i3-wm.workspace.17.name:	17:17
+i3-wm.workspace.18.name:	18:18
+i3-wm.workspace.19.name:	19:19
+
+i3xrocks.value.mediaplayerwidth:	50
+
+### DPI
+Xft.dpi:	92.56
+
+!regolith.look.path: /usr/share/regolith-look/dracula
+regolith.look.path: /usr/share/regolith-look/dracula
